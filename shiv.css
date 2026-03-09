@@ -1,0 +1,40 @@
+   * {
+            margin: 0px;
+        }
+
+        .poster {
+            width: 100vw;
+            height: 100vh;
+            background-image: url("./netflix-image.jpg");
+            opacity: 10px black;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .color-white {
+            color: white;
+            font-size: 30px;
+        }
+        #address{
+            height: 40px;
+            width: 600px;
+            background-color: black;
+            color: white;
+        }
+        .box{
+            height: 30px;
+            width: 200px;
+            background-color: red;
+            text-align: center;
+            color: white;
+            margin-left: 70px;
+            padding-top: 10px;
+        }
+        .senter{
+            height: 70px;
+             display: flex;
+            justify-content: center;
+            align-items: center;
+        }
